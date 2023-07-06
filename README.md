@@ -14,5 +14,8 @@ Inside the EmployeeSQL folder, you will find the following files and folders:
 3. Data_Analysis.sql
 * In this file, you will find the SQL code to perform the analysis and answer each question.
 
+## Credits
+Referenced class materials and ChatGPT
+
 
 
